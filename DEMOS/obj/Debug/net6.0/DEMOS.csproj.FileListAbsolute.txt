@@ -1,0 +1,15 @@
+C:\Users\William\Documents\Projeto\DEMOS\bin\Debug\net6.0\DEMOS.exe
+C:\Users\William\Documents\Projeto\DEMOS\bin\Debug\net6.0\DEMOS.deps.json
+C:\Users\William\Documents\Projeto\DEMOS\bin\Debug\net6.0\DEMOS.runtimeconfig.json
+C:\Users\William\Documents\Projeto\DEMOS\bin\Debug\net6.0\DEMOS.dll
+C:\Users\William\Documents\Projeto\DEMOS\bin\Debug\net6.0\DEMOS.pdb
+C:\Users\William\Documents\Projeto\DEMOS\obj\Debug\net6.0\DEMOS.csproj.AssemblyReference.cache
+C:\Users\William\Documents\Projeto\DEMOS\obj\Debug\net6.0\DEMOS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\William\Documents\Projeto\DEMOS\obj\Debug\net6.0\DEMOS.AssemblyInfoInputs.cache
+C:\Users\William\Documents\Projeto\DEMOS\obj\Debug\net6.0\DEMOS.AssemblyInfo.cs
+C:\Users\William\Documents\Projeto\DEMOS\obj\Debug\net6.0\DEMOS.csproj.CoreCompileInputs.cache
+C:\Users\William\Documents\Projeto\DEMOS\obj\Debug\net6.0\DEMOS.dll
+C:\Users\William\Documents\Projeto\DEMOS\obj\Debug\net6.0\refint\DEMOS.dll
+C:\Users\William\Documents\Projeto\DEMOS\obj\Debug\net6.0\DEMOS.pdb
+C:\Users\William\Documents\Projeto\DEMOS\obj\Debug\net6.0\DEMOS.genruntimeconfig.cache
+C:\Users\William\Documents\Projeto\DEMOS\obj\Debug\net6.0\ref\DEMOS.dll
